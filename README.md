@@ -1,8 +1,6 @@
-# React + Vite
+# React sing Up
+## bu proje basit yapılarla oluşturulmuştur
+## Validation ile yapısı kullanılmıştır.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Ekran Görüntüsü (8)](https://github.com/sonayinan/React-SingUp/assets/26733447/5964718f-6a2f-44d3-b817-b8d3cc7cafcc)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
